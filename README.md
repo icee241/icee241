@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @icee241
 - 👀 I’m interested in Web Languages, Python, Metallica, i'm a musician and guitarist mainly.
 - 🌱 I’m currently learning Python, HTML, CSS, JS and C#
-- 💞️ I’m looking to collaborate on some web pages, i would be cool.
+- 💞️ I’m looking to collaborate on some web pages, it would be cool.
 - 📫 How to reach me ...
 
 <!---
